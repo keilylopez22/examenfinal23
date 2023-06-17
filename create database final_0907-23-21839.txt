@@ -1,0 +1,11 @@
+create database final_0907-23-21839
+ 
+use producto  
+ 
+create table producto
+
+select from produto (leche)
+select from produto (azucar)
+select from produto (chocolate)
+select from produto (bombones)
+select from produto (cocacola)
